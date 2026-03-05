@@ -1,2 +1,3 @@
 # projeto-logistica-agasalhos
-Projeto inicial: Painel de Logística Campanha de Agasalhos
+# 🚚 Painel Logístico de Arrecadação - Campanha 2026
+
