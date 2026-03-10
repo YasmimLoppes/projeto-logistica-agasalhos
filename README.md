@@ -1,7 +1,7 @@
 # projeto-logistica-agasalhos
 # 🚚 Painel Logístico de Arrecadação - Campanha 2026
 
-Este projeto foi desenvolvido para monitorar em tempo real a logística e as metas da Campanha de Agasalhos, utilizando ferramentas modernas de análise de dados.
+📦 Sistema de monitoramento de logística para campanhas de doação, focado em controle de estoque e distribuição com Python.
 
 ## 📊 Visualização do Dashboard
 ![Painel Logístico](./dashboard.png)
